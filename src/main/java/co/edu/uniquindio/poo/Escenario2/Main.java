@@ -68,7 +68,5 @@ public class Main {
             System.out.println();
         }
 
-        System.out.println("Nota: la medición de memoria con Runtime es aproximada,");
-        System.out.println("porque depende de cuándo corre el Garbage Collector.");
     }
 }
